@@ -1,0 +1,5 @@
+﻿  Adapter01.cpp
+\\second-dc\пко\sep-162\_уроки\dp\05-06. структурные паттерны\adapter01.cpp(29): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+\\second-dc\пко\sep-162\_уроки\dp\05-06. структурные паттерны\adapter01.cpp(43): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  DP_Lesson3.vcxproj -> c:\users\орунбаевас\documents\visual studio 2017\Projects\DP_Lesson3\Debug\DP_Lesson3.exe
+  DP_Lesson3.vcxproj -> c:\users\орунбаевас\documents\visual studio 2017\Projects\DP_Lesson3\Debug\DP_Lesson3.pdb (Partial PDB)
